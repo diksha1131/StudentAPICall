@@ -1,0 +1,14 @@
+C:\Users\diksha.singh\source\repos\StudentWebApplication\StudentWebApplication\obj\Debug\netcoreapp2.1\StudentWebApplication.csprojAssemblyReference.cache
+C:\Users\diksha.singh\source\repos\StudentWebApplication\StudentWebApplication\obj\Debug\netcoreapp2.1\StudentWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\diksha.singh\source\repos\StudentWebApplication\StudentWebApplication\obj\Debug\netcoreapp2.1\StudentWebApplication.RazorAssemblyInfo.cache
+C:\Users\diksha.singh\source\repos\StudentWebApplication\StudentWebApplication\obj\Debug\netcoreapp2.1\StudentWebApplication.RazorAssemblyInfo.cs
+C:\Users\diksha.singh\source\repos\StudentWebApplication\StudentWebApplication\obj\Debug\netcoreapp2.1\StudentWebApplication.AssemblyInfoInputs.cache
+C:\Users\diksha.singh\source\repos\StudentWebApplication\StudentWebApplication\obj\Debug\netcoreapp2.1\StudentWebApplication.AssemblyInfo.cs
+C:\Users\diksha.singh\source\repos\StudentWebApplication\StudentWebApplication\bin\Debug\netcoreapp2.1\StudentWebApplication.deps.json
+C:\Users\diksha.singh\source\repos\StudentWebApplication\StudentWebApplication\bin\Debug\netcoreapp2.1\StudentWebApplication.runtimeconfig.json
+C:\Users\diksha.singh\source\repos\StudentWebApplication\StudentWebApplication\bin\Debug\netcoreapp2.1\StudentWebApplication.runtimeconfig.dev.json
+C:\Users\diksha.singh\source\repos\StudentWebApplication\StudentWebApplication\bin\Debug\netcoreapp2.1\StudentWebApplication.dll
+C:\Users\diksha.singh\source\repos\StudentWebApplication\StudentWebApplication\bin\Debug\netcoreapp2.1\StudentWebApplication.pdb
+C:\Users\diksha.singh\source\repos\StudentWebApplication\StudentWebApplication\obj\Debug\netcoreapp2.1\StudentWebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\diksha.singh\source\repos\StudentWebApplication\StudentWebApplication\obj\Debug\netcoreapp2.1\StudentWebApplication.dll
+C:\Users\diksha.singh\source\repos\StudentWebApplication\StudentWebApplication\obj\Debug\netcoreapp2.1\StudentWebApplication.pdb
